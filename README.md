@@ -1,5 +1,4 @@
-# Python Basic Project
 
-This repository contains Python programs from Q2 to Q10.
+This project is submitted by:-
 
-Created by: Ishika Date
+ Ishika Date
